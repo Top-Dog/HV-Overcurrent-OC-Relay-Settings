@@ -1,5 +1,5 @@
 # Author: SDO
-# Date: 28/09/2019
+# Date: 28/09/2018
 # Description: Calculate the best fit TMS and PU setting
 # from two test points on the standard overcurrent curve
 # as defined by equation f (below).
